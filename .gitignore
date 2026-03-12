@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual env
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Runtime outputs
+output/
+*.har
+*.png
+*.log
+
+# Internal knowledge base
+knowledge_base/*
+!knowledge_base/README.md

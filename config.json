@@ -1,0 +1,20 @@
+[
+  {
+    "region": "US",
+    "url": "https://us.example.com/",
+    "language": "English",
+    "jurisdiction": "FTC and CCPA"
+  },
+  {
+    "region": "EU",
+    "url": "https://eu.example.com/",
+    "language": "English",
+    "jurisdiction": "EU Consumer Protection Directive and GDPR"
+  },
+  {
+    "region": "JP",
+    "url": "https://jp.example.com/",
+    "language": "Japanese",
+    "jurisdiction": "Japan Act against Unjustifiable Premiums and Misleading Representations and APPI"
+  }
+]
